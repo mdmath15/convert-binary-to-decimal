@@ -17,3 +17,6 @@ convertê-lo para base 10 (sistema de numeração decimal). Utilize a linguagem 
 - Fazer testes unitários;
 - Utilizar POO;
 - Utilizar Typescript.
+
+## Referências 
+https://www.youtube.com/watch?v=VLflTjd3lWA
